@@ -21,4 +21,4 @@ This project is a semantic HTML webpage created as part of Assignment-01.
 - Contact section
 
 ## Live Deployment
-https://github.com/Suryaksh4sure/Assignment-01
+https://suryaksh4sure.github.io/Assignment-01/
